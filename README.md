@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Chinwendu Enyinna (Wendy)
+- 👋 Hi, I’m Chinwendu Enyinna (aka Wendy)
 - 👀 I’m a Software Engineer, a writer, and an Open Source enthusaist
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 You can reach me at chinwenduenyinnap@gmail.com
   
